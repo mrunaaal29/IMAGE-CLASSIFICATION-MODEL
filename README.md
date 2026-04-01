@@ -39,6 +39,7 @@ The model used in this project is a CNN built using TensorFlow and Keras. The ar
 The final model is saved in H5 or SavedModel format. Since GitHub has a 25 MB limit on files, the model is uploaded through Git LFS or provided as a downloadable link through Google Drive.
 
 4. Tools and Technologies Used
+
 Python
 TensorFlow
 Keras
@@ -46,6 +47,7 @@ NumPy
 Matplotlib
 Google Drive (for dataset and model hosting)
 Git and Git LFS (for version control and large file handling)
+
 5. Editor and Development Platform
 
 The project was developed using Jupyter Notebook and Visual Studio Code (VS Code). Both platforms support Python development and provide the flexibility needed for machine learning experimentation. Jupyter Notebook was primarily used for training, visualization, and testing the CNN model, while VS Code was used for organizing the project structure and writing Python scripts.
@@ -65,7 +67,20 @@ The project demonstrates the complete workflow of solving a real dataset problem
 
 7. Output
 
+1.Model training
+<img width="1700" height="684" alt="Image" src="https://github.com/user-attachments/assets/cb5fb915-26ab-462e-b263-3f9bf278cd60" />
 
+2.Model accuracy graph
+<img width="800" height="800" alt="Image" src="https://github.com/user-attachments/assets/739a425d-6c65-4f95-8e5f-db93c3ffae0a" />
+
+3.Model loss graph
+<img width="800" height="800" alt="Image" src="https://github.com/user-attachments/assets/55fccda3-1d6c-4d48-894e-adbd83197034" />
+
+4.Accuracy on test dataset
+<img width="1116" height="232" alt="Image" src="https://github.com/user-attachments/assets/4d8c129a-795f-463f-a60e-a672300ecf93" />
+
+5.Prediction on 3 images 
+<img width="666" height="580" alt="Image" src="https://github.com/user-attachments/assets/f461a416-6fac-4e94-bee7-3041e85ac281" />
 
 
 
