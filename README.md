@@ -68,19 +68,24 @@ The project demonstrates the complete workflow of solving a real dataset problem
 7. Output
 
 1.Model training
-<img width="1400" height="380" alt="Image" src="https://github.com/user-attachments/assets/cb5fb915-26ab-462e-b263-3f9bf278cd60" />
+
+<img width="1000" height="320" alt="Image" src="https://github.com/user-attachments/assets/cb5fb915-26ab-462e-b263-3f9bf278cd60" />
 
 2.Model accuracy graph
+
 <img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/739a425d-6c65-4f95-8e5f-db93c3ffae0a" />
 
 3.Model loss graph
+
 <img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/55fccda3-1d6c-4d48-894e-adbd83197034" />
 
 4.Accuracy on test dataset
-<img width="800" height="150" alt="Image" src="https://github.com/user-attachments/assets/4d8c129a-795f-463f-a60e-a672300ecf93" />
+
+<img width="500" height="150" alt="Image" src="https://github.com/user-attachments/assets/4d8c129a-795f-463f-a60e-a672300ecf93" />
 
 5.Prediction on 3 images 
-<img width="400" height="350" alt="Image" src="https://github.com/user-attachments/assets/f461a416-6fac-4e94-bee7-3041e85ac281" />
+
+<img width="300" height="350" alt="Image" src="https://github.com/user-attachments/assets/f461a416-6fac-4e94-bee7-3041e85ac281" />
 
 
 
